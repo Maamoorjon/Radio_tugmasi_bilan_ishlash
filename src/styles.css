@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+  background-color: rgb(241, 206, 206);
+  min-height: 400px;
+}
+h1 {
+  margin: 20px 0;
+  padding: 40px;
+}
+h3 {
+  margin-top: 40px;
+}
+span {
+  text-decoration: underline;
+  color: red;
+}
